@@ -1,0 +1,23 @@
+{
+  "name": "compare-pizza-deals",
+  "version": "1.0.0",
+  "description": "Playground for using Elm to compare pizza deals based off of their diameter and price.",
+  "main": "elm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpearce/compare-pizza-deals.git"
+  },
+  "keywords": [],
+  "author": "Robert Pearce <me@robertwpearce.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpearce/compare-pizza-deals/issues"
+  },
+  "homepage": "https://github.com/rpearce/compare-pizza-deals#readme",
+  "devDependencies": {
+    "uglify-js": "^2.7.5"
+  }
+}
